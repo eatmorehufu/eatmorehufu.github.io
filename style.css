@@ -80,7 +80,8 @@ h1 {
 .details{
     font-family: 'Lato', sans-serif;
     font-size: 3em;
-    margin: 5em;
+    margin-left: 25%;
+    margin-right: 25%;
     padding: 1em;
     background-color: rgba(0, 0, 0, 0.3);
     width: 50%;
@@ -94,7 +95,7 @@ h1 {
 .notes {
     font-family: 'Lato', sans-serif;
     font-size: 2em;
-    margin: 7.5em;
+    margin: 25%;
     padding: 1.5em;
     background-color: rgba(0, 0, 0, 0.3);
     text-align: left;
